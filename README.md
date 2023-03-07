@@ -1,12 +1,12 @@
 # Zomato-Data-Analysis
 This project focuses on Customers and Company, we have to analyze the sentiments of the
 reviews given by the customer in the data and make some useful conclusions in the form of
-visualizations. Also, cluster the zomato restaurants into different segments. The data is
-visualized as it becomes easy to analyze data at instant. The analysis also solves some of
+visualizations. Also, cluster the zomato restaurants into different segments.
+The data is visualized as it becomes easy to analyze data at instant. The analysis also solves some of
 the business cases that can directly help the customers finding the Best restaurant in their
 locality and for the company to grow up and work on the fields they are currently lagging in.
-This could help in clustering the restaurants into segments. The data has valuable
-information around cuisine and costing which can be used in cost vs. benefit analysis Data
+This could help in clustering the restaurants into segments.
+The data has valuable information around cuisine and costing which can be used in cost vs. benefit analysis Data
 could be used for sentiment analysis. The metadata of reviewers can be used for identifying
 the critics in the industry.
 In this unsupervised machine learning project, we looked into multiple unsupervised models
